@@ -37,7 +37,7 @@ pour contribuer à des projets ambitieux, apprendre vite et progresser constamme
 
 ## 📂 Projets phares
 - 📊 **IMTS-DATA** : Application de gestion de compétences et formations (Node.js + React + Sequelize)  
-- 🌍 **Portfolio personnel** : [ferhatmaini.fr](https://senfoosan.github.io)  
+- 🌍 **Portfolio personnel** : [ferhatmaini.fr](https://www.senfoosan.github.io)  
 
 ---
 
@@ -48,7 +48,7 @@ pour contribuer à des projets ambitieux, apprendre vite et progresser constamme
 
 ## 🌐 Où me trouver
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ferhat%20Maini-blue?logo=linkedin)](https://www.linkedin.com/in/ferhat-maini)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ferhatmaini.fr-61DAFB?logo=react)](https://ferhatmaini.fr)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ferhatmaini.fr-61DAFB?logo=react)](https://www.senfoosan.github.io )  
 
 ---
 
