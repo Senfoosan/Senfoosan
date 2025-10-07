@@ -1,6 +1,6 @@
 # 👋 Hey, moi c’est Ferhat Maini  
 
-💻 Développeur **Full Stack JS** fraîchement diplômé  
+💻 Développeur **Full Stack** fraîchement diplômé  
 🌱 Passionné par les **technos modernes**, le **code propre** et l’**expérience utilisateur**  
 
 ---
@@ -37,7 +37,7 @@ pour contribuer à des projets ambitieux, apprendre vite et progresser constamme
 
 ## 📂 Projets phares
 - 📊 **IMTS-DATA** : Application de gestion de compétences et formations (Node.js + React + Sequelize)  
-- 🌍 **Portfolio personnel** : [ferhatmaini.fr](https://ferhatmaini.fr)  
+- 🌍 **Portfolio personnel** : [ferhatmaini.fr](https://senfoosan.github.io)  
 
 ---
 
