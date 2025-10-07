@@ -30,7 +30,7 @@
 ## 📌 À propos de moi
 ✨ Curieux, rigoureux et orienté solution  
 ⚡ Je cherche à allier **UX** et **qualité de code**  
-🚀 Objectif actuel : trouver une **première opportunité en tant que Développeur Full Stack JS**  
+🚀 Objectif actuel : trouver une **première opportunité en tant que Développeur Full Stack**  
 pour contribuer à des projets ambitieux, apprendre vite et progresser constamment  
 
 ---
